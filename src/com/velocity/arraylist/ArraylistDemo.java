@@ -1,7 +1,10 @@
 package com.velocity.arraylist;
 
 public class ArraylistDemo {
-
+	void demo()
+	{
+		System.out.println("Hello Demo");
+	}
 	public static void main(String[] args) {
 		
 			int[] arr=new int[10];
