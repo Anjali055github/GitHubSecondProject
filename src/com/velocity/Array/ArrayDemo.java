@@ -12,7 +12,7 @@ public class ArrayDemo {
 		
 		for(int x:arr)
 			System.out.print("Numbers"+x);
-		
+		System.out.println("hello");
 
 	}
 
